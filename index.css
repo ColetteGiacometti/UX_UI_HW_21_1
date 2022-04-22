@@ -141,6 +141,7 @@ h4 {
   }
   .cardPic {
     width: 50%;
+    float:center;
   }
 
   .moreHeader {
