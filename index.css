@@ -114,10 +114,15 @@ h4 {
     margin-top: 10%;
   }
 
+  .firstnewsCard {
+    margin-left: 10%;
+    margin-top: 17%;
+  }
+
   .newsFooter {
     width: 18rem;
     margin-left: 10%;
-    margin-top: 10%;
+    margin-top: 5%;
   }
   .middleContainer {
     padding-left: 3%;
@@ -127,11 +132,12 @@ h4 {
   .middleTitle{
     padding-top: 5%;
     padding-bottom: 3%;
+    padding-left: 10%;
   }
 
   .middleCard {
     margin: 0 auto;
-    margin-top: 3%;
+    margin-top: 5%;
   }
   .middleFooter {
     width: 34rem;
@@ -140,7 +146,8 @@ h4 {
     padding-bottom: 10%;
   }
   .cardPic {
-    width: 50%;
+    margin-top: 15%;
+    width: 70%;
     float:center;
   }
 
@@ -152,6 +159,11 @@ h4 {
   .moreCard {
     margin-left: 10%;
     margin-top: 10%;
+  }
+
+  .firstmoreCard {
+    margin-left: 10%;
+    margin-top: 15%;
   }
 
   .signup {
@@ -171,4 +183,8 @@ h4 {
   .footerText {
     width: 60%;
     margin: 0 auto;
+  }
+
+  .btn {
+    margin-top: 0%;
   }
