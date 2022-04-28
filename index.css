@@ -23,7 +23,7 @@
 .nav-item {
   margin: 0px 15px;
   font-size: 90%;
-
+ 
 }
 .nav-link {
   color: white !important;
@@ -42,7 +42,7 @@
   background-image: url("hero\ photo.png");
   background-repeat: no-repeat;
   background-size: cover;
-  height: 600px; 
+  height: 700px; 
   text-align: center;
  }
 
@@ -63,12 +63,23 @@ h4 {
   color: white !important;
   font-family:'Montserrat', sans-serif;
   font-weight: normal;
+  margin-bottom: 3%;
 }
 .heroText {
   color: white !important;
   font-family:'Montserrat', sans-serif;
   font-weight: normal;
   line-height: 50pt;;
+}
+
+.openShop {
+  padding-top: 5%;
+  width: 50%;
+}
+
+.newStore {
+  box-shadow: 0 0 30px rgba(0, 0, 0, 0.9);
+  margin: 0 auto;
 }
   /*Newsletter section*/
 
@@ -111,7 +122,7 @@ h4 {
 
   .newsCard {
     margin-left: 10%;
-    margin-top: 10%;
+    margin-top: 5%;
   }
 
   .firstnewsCard {
@@ -158,7 +169,7 @@ h4 {
   }
   .moreCard {
     margin-left: 10%;
-    margin-top: 10%;
+    margin-top: 20%;
   }
 
   .moreCard:hover {
